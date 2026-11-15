@@ -5,12 +5,15 @@ Punjab Land Record and Mutation (Intiqal) Tracking Database
 Database Systems 3rd Semester Project, PUCIT, University of the Punjab
 
 Teacher Ahmad Hassan.
+
 Group name: LandTrack Team.
+
 DBMS: PostgreSQL
 
 ## Group Members
 
 1.Muhammad Fuzail, bcsf25m037 - Project Manager + Data Architect (ERD, schema, normalization)
+
 2. Hayan Ullah, bcsf25m056 - Database Developer + QA/Documentation (DDL, SQL, tests)
 
 Roles rotate in at least one phase.
