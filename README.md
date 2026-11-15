@@ -8,6 +8,12 @@ Database Systems Semester Project - Phase 1 Proposal
 
 Group Name: LandTrack Team
 
+Course: Database Systems
+
+Instructor: Ahmad Hassan
+
+University: PUCIT, University of the Punjab
+
 1. Muhammad Fuzail, bcsf25m037
 2. Hayan Ullah, bcsf25m056
 
